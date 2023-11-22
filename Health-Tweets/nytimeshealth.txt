@@ -68,7 +68,7 @@
 545253503963516928|Wed Dec 17 16:25:40 +0000 2014|Massachusetts Pharmacy Owners Arrested in Meningitis Deaths http://nyti.ms/1zw5d3G
 545235402156937217|Wed Dec 17 15:13:44 +0000 2014|For First Time, Treatment Helps Patients With Worst Kind of Stroke, Study Says http://nyti.ms/1zvSJsN
 545086317659717632|Wed Dec 17 05:21:20 +0000 2014|Well: How Exercise Changes Our DNA http://nyti.ms/1wXOPey
-545074589374881792|Wed Dec 17 04:34:43 +0000 2014|National Briefing | New England: Massachusetts: Sex-Change Surgery Denied to Inmate http://nyti.ms/13aAYn0
+545074589374881792|Wed Dec 17 04:34:43 +0000 2014|National Briefing New England: Massachusetts: Sex-Change Surgery Denied to Inmate http://nyti.ms/13aAYn0
 545070455196250113|Wed Dec 17 04:18:18 +0000 2014|Federal Health Exchange Sees Enrollment Flurry http://nyti.ms/1zpVLju
 545070454038614016|Wed Dec 17 04:18:17 +0000 2014|Vivek Murthy, the New Surgeon General, Isn’t Afraid to Take a Stand http://nyti.ms/13aB129
 545066190205624320|Wed Dec 17 04:01:21 +0000 2014|U.N. Secretary General to Visit Ebola-Plagued Nations http://nyti.ms/1zpVLjs
